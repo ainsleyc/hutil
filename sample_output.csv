@@ -1,0 +1,41 @@
+mlsId, price, sqFt, beds, baths, street, city, state, zip, yearBuilt, url, zimas_pin, zimas_address, zimas_zoning
+16-126904, 898900, 2007, 4, 3, 2116 South Dunsmuir Ave, Los Angeles, CA, 90016, 1927, https://www.redfin.com/CA/Los-Angeles/2116-S-Dunsmuir-Ave-90016/home/6900621, 126B177  1246, 2116 S DUNSMUIR AVE , RD2-1
+16-117950, 792900, 1170, 2, 2, 423 Arnaz Dr #101, Los Angeles, CA, 90048, 2008, https://www.redfin.com/CA/Los-Angeles/423-Arnaz-Dr-90048/unit-101/home/22627298, 138B169  1398, 423 S ARNAZ DR , R3-1-O
+SR16021583, 849000, 2454, 4, 3, 17706 Tuscan Dr, Granada Hills, CA, 91344, 1987, https://www.redfin.com/CA/Los-Angeles/17706-Tuscan-Dr-91344/home/5556919, 222B129   308, 17706 W TUSCAN DR , RA-1-H-K
+BB16120154, 775000, 2200, 2, 2.5, 9565 Dale Ave, Shadow Hills, CA, 91040, 1929, https://www.redfin.com/CA/Los-Angeles/9565-Dale-Ave-91040/home/5494092, 198B177    27, 9565 N DALE AVE , RE40-1-K
+16-131824, 999000, 1769, 3, 1, 800 North Melrose Hill St, Los Angeles, CA, 90029, 1917, https://www.redfin.com/CA/Los-Angeles/800-Melrose-Hill-St-90029/home/7109020, , , 
+SR16119921, 1000000, 2561, 4, 3, 5345 Vanalden Ave, Tarzana, CA, 91356, 1964, https://www.redfin.com/CA/Los-Angeles/5345-Vanalden-Ave-91356/home/4148862, 171B121   110, 5345 N VANALDEN AVE , RA-1
+16-131858, 810000, 1765, 3, 2, 3772 Dublin Ave, Los Angeles, CA, 90018, 1938, https://www.redfin.com/CA/Los-Angeles/3772-Dublin-Ave-90018/home/6881880, 117B189   602, 3772 S DUBLIN AVE , R1-1
+16-131790, 899000, 1125, 3, 1, 11343 Culver Dr, Culver City, CA, 90230, 1947, https://www.redfin.com/CA/Culver-City/11343-Culver-Dr-90230/home/6728017, 108B165    15, 11343 W CULVER DR , R1-1
+316005191, 910000, 1344, 2, 1, 1350 Coronado Ter, Los Angeles, CA, 90026, 1921, https://www.redfin.com/CA/Los-Angeles/1350-Coronado-Ter-90026/home/7058471, , , 
+SR16119686, 799999, 2943, 5, 3, 23277 Keswick St, West Hills, CA, 91304, 1980, https://www.redfin.com/CA/Los-Angeles/23277-Keswick-St-91304/home/3130259, 189B093   736, 23277 W KESWICK ST , RE11-1
+SB16119651, 938000, 2426, 4, 2, 1440 West 17th St, San Pedro, CA, 90732, 1930, https://www.redfin.com/CA/Los-Angeles/1440-W-17th-St-90732/home/7692663, , , 
+SR16119630, 960000, 1644, 3, 2, 1856 Preston Ave, Echo Park, CA, 90026, 1912, https://www.redfin.com/CA/Los-Angeles/1856-Preston-Ave-90026/home/7056545, , , 
+16-131756, 946000, , 4, 3, 14950 Otsego St, Sherman Oaks, CA, 91403, , https://www.redfin.com/CA/Los-Angeles/14950-Otsego-St-91403/home/4806333, 171A147   194, 14950 W OTSEGO ST , R1-1-RIO
+SR16119600, 898000, 3469, 4, 2.75, 10357 Sandlewood Ln, Northridge, CA, 91326, 1998, https://www.redfin.com/CA/Los-Angeles/10357-Sandlewood-Ln-91326/home/5811671, 204B121   663, 10357 N SANDLEWOOD LANE , RS-1
+16-131506, 799000, 1230, 2, 1, 11664 Sunshine Ter, Studio City, CA, 91604, 1937, https://www.redfin.com/CA/Los-Angeles/11664-Sunshine-Ter-91604/home/5250123, 162B169   926, 11664 W SUNSHINE TER , R1-1
+16-125386, 899000, 1921, 2, 2, 1739 South Wooster St, Los Angeles, CA, 90035, 1931, https://www.redfin.com/CA/Los-Angeles/1739-S-Wooster-St-90035/home/6787218, 129B169  1138, 1739 S WOOSTER ST , R1-1
+OC16119411, 849900, 1692, 3, 3, 807 North Sycamore Ave #1, Los Angeles, CA, 90038, 1981, https://www.redfin.com/CA/Los-Angeles/807-N-Sycamore-Ave-90038/unit-1/home/7101718, 132B181   266, 807 S SYCAMORE AVE , R2-1
+MB16119428, 850000, 2261, 3, 3, 1119 Cresthaven Dr, Highland Park, CA, 90042, 1966, https://www.redfin.com/CA/Los-Angeles/1119-Cresthaven-Dr-90042/home/7085029, , , 
+16-129176, 850000, 1590, 2, 2, 4350 Via Dolce #107, Marina Del Rey, CA, 90292, 1974, https://www.redfin.com/CA/Marina-del-Rey/4350-Via-Dolce-90292/unit-107/home/6783344, , , 
+16-122584, 899000, 1290, 0, 2, 13320 Beach Ave #301, Marina Del Rey, CA, 90292, 2006, https://www.redfin.com/CA/Marina-del-Rey/13320-Beach-Ave-90292/unit-301/home/28710166, 108B153  1419, 13320 W BEACH AVE , 
+16-130728, 949000, 1702, 3, 2, 2343 South Holt Ave, Los Angeles, CA, 90034, 1936, https://www.redfin.com/CA/Los-Angeles/2343-S-Holt-Ave-90034/home/6786044, 126B169  1352, 2343 S HOLT AVE , R1-1
+SR16119373, 849900, 2000, 3, 2.5, 11951 Riverside Dr, Valley Village, CA, 91607, 2016, https://www.redfin.com/CA/Los-Angeles/11951-Riverside-Dr-91607/home/5213008, , , 
+SR16119342, 885000, 2000, 4, 3, 17410 Burma St, Encino, CA, 91316, 1949, https://www.redfin.com/CA/Los-Angeles/17410-Burma-St-91316/home/4756198, 174B129   123, 17410 W BURMA ST , R1-1-RIO
+SR16119321, 950000, 2714, 4, 3, 8007 Masefield Ct, West Hills, CA, 91304, 1986, https://www.redfin.com/CA/Los-Angeles/8007-Masefield-Ct-91304/home/3067274, 189B089    62, 8007 N MASEFIELD CT , RE11-1
+16-131660, 950000, 1357, 1, 1.5, 641 Wilcox Ave Unit 2E, Los Angeles, CA, 90004, 1972, https://www.redfin.com/CA/Los-Angeles/641-Wilcox-Ave-90004/unit-2E/home/7099683, 141B185   606, 641 N WILCOX AVE , R3-1
+16-131394, 850000, 1248, 2, 2, 7250 Franklin Ave #1110, Los Angeles, CA, 90046, 1964, https://www.redfin.com/CA/Los-Angeles/7250-Franklin-Ave-90046/unit-1110/home/7114384, 147B181    21, 7250 W FRANKLIN AVE , R3-1
+16-131630, 765000, 1470, 0, 1, 500 Molino St #117, Los Angeles, CA, 90013, 1923, https://www.redfin.com/CA/Los-Angeles/500-Molino-St-90013/unit-117/home/12287609, 126A217   218, 500 S MOLINO ST , M3-1-RIO
+OC16119168, 799000, 3161, 3, 3, 26200 Governor Ave, Harbor City, CA, 90710, 1954, https://www.redfin.com/CA/Los-Angeles/26200-Governor-Ave-90710/home/7673221, 033B193   468, 26200 S GOVERNOR AVE , R1-1XL
+SR16119075, 999950, 2825, 3, 3, 20314 Strelna Pl, Woodland Hills, CA, 91364, 1966, https://www.redfin.com/CA/Los-Angeles/20314-Strelna-Pl-91364/home/4230757, 168B113   160, 20314 W STRELNA PL , RA-1
+SR16119023, 949000, 2024, 3, 3, 19340 Espinosa St, Tarzana, CA, 91356, 1963, https://www.redfin.com/CA/Los-Angeles/19340-Espinosa-St-91356/home/4254102, 165B117   220, 19340 W ESPINOSA ST , RA-1
+16-131294, 999000, 1711, 2, 2, 10550 Wilshire Blvd #704, Los Angeles, CA, 90024, 1981, https://www.redfin.com/CA/Los-Angeles/10550-Wilshire-Blvd-90024/unit-704/home/6804489, 135B153   584, 10550 W WILSHIRE BLVD , 
+SR16118887, 765000, 2440, 4, 4, 8435 Moorcroft Ave, Canoga Park, CA, 91304, 1959, https://www.redfin.com/CA/Los-Angeles/8435-Moorcroft-Ave-91304/home/8096104, 192B101   355, 8435 N MOORCROFT AVE , RE11-1
+16-128520, 849000, 1658, 3, 2.5, 4292 Perlita Ave, Los Angeles, CA, 90039, 2010, https://www.redfin.com/CA/Los-Angeles/4292-Perlita-Ave-90039/home/22953841, 159B205   766, 4292 N PERLITA AVE , 
+16-131436, 899000, 3658, 5, 3, 2957 South Brighton Ave, Los Angeles, CA, 90018, 1903, https://www.redfin.com/CA/Los-Angeles/2957-Brighton-Ave-90018/home/6895037, 120B193   366, 2957 S BRIGHTON AVE , R1-1-O
+16-131366, 949995, 1618, 2, 1.75, 621 South Barrington Ave #104, Los Angeles, CA, 90049, 1982, https://www.redfin.com/CA/Los-Angeles/621-S-Barrington-Ave-90049/unit-104/home/6835956, 132B145   248, 621 S BARRINGTON AVE , R3-1
+16-131462, 840000, 2340, 3, 2.25, 5135 San Feliciano Dr, Woodland Hills, CA, 91364, 1963, https://www.redfin.com/CA/Los-Angeles/5135-San-Feliciano-Dr-91364/home/4192410, 171B101   907, 5135 N SAN FELICIANO DR , R1-1
+SR16118869, 899000, 1790, 2, 1.5, 4432 Farmdale Ave, Studio City, CA, 91602, 1947, https://www.redfin.com/CA/Los-Angeles/4432-Farmdale-Ave-91602/home/5228328, 165B169   160, 4432 N FARMDALE AVE , R1-1-RFA-RIO
+SR16118771, 775000, 2405, 5, 3, 19932 Ahwanee Ln, Northridge, CA, 91326, 1995, https://www.redfin.com/CA/Los-Angeles/19932-Ahwanee-Ln-91326/home/5771174, 213B113   114, 19932 W AHWANEE LANE , RD6-1
+PW16118763, 765000, 2124, 4, 2, 17056 Lisette St, Granada Hills, CA, 91344, 1963, https://www.redfin.com/CA/Los-Angeles/17056-Lisette-St-91344/home/5559928, 222B133   439, 17056 W LISETTE ST , RE11-1-HPOZ
+SR16118749, 795000, 3994, 4, 3, 17552 Gledhill St, Northridge, CA, 91325, 1962, https://www.redfin.com/CA/Los-Angeles/17552-Gledhill-St-91325/home/5861840, 198B129    80, 17552 W GLEDHILL ST , RA-1

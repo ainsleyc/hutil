@@ -1,0 +1,17 @@
+{
+  "name": "hutil",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ainsleyc/hutil.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ainsleyc/hutil/issues"
+  },
+  "homepage": "https://github.com/ainsleyc/hutil#readme",
+  "dependencies": {
+    "lodash": "1.0.1",
+    "request": "2.72.0"
+  }
+}
